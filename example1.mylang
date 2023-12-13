@@ -1,0 +1,3 @@
+let dobro = (\y : Num -> 2 * y) in
+let main = dobro 2 in
+main

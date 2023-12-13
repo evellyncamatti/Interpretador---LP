@@ -1,0 +1,3 @@
+while 2 (let dobromaisum = (\y : Num -> (2 * y) + 1 ) in
+let main = dobromaisum 2 in
+main)

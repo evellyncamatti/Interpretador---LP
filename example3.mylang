@@ -1,0 +1,2 @@
+let menor = 20 < 5 in
+if menor then 1 else 0
